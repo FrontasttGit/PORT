@@ -128,7 +128,11 @@ opacity: 0;
 .aboutcomapany {
     font-family: 'Montserrat', sans-serif;
     background-color: #5F9EA0;
+    text-decoration: none
 }
+.about<<< {
+    font-family: 'Montserrat', sans-serif;
+    text-decoration: none
 .aboutme {
     font-family: 'Montserrat', sans-serif;
     background-color: #5F9EA0;
